@@ -1,1 +1,1 @@
-pythontutorial.net/python-concurrency/
+https://www.pythontutorial.net/python-concurrency/
